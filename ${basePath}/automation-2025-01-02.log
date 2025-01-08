@@ -1,0 +1,44 @@
+2025-01-02 11:36:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 11:36:35 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 11:36:51 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 11:36:51 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 11:38:29 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 11:38:29 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 11:38:30 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 11:38:30 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 11:38:48 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 11:38:48 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 12:16:39 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:16:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:16:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:16:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:16:56 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 12:16:56 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 12:16:59 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:16:59 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:17:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:17:00 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:17:16 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 12:17:16 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 12:17:40 [main] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:17:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:17:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:17:40 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:17:57 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 12:17:57 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 12:20:19 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:20:19 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:20:19 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:20:19 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:20:19 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *************Starting TCOO1 Account Registration*****************
+2025-01-02 12:20:19 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account link
+2025-01-02 12:20:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:20:44 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:20:45 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:20:45 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:21:02 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+2025-01-02 12:21:02 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer detail
+2025-01-02 12:21:30 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 12:21:30 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
+2025-01-02 12:21:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account
+2025-01-02 12:21:31 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *****Finised TCOO1 Account Registration*****************
